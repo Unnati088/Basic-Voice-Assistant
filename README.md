@@ -15,6 +15,6 @@ A simple Python-based voice assistant that can:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/voice-assistant.git
+   git clone https://github.com/Unnati088/voice-assistant.git
    cd voice-assistant
  Basic-Voice-Assistant
